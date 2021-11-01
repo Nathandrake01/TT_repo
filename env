@@ -1,16 +1,16 @@
 PORT=3000
-TT_COOKIE= tradetron_session=eyJpdiI6InMwWldhWXBCZDhZXC9RMXlkdW5EN1ZRPT0iLCJ2YWx1ZSI6Ik1QdGxCdXFLV2FIRGQ5dmlwSHExZ05wS05TVDJxcGtkZjVCVTVBV0F3QVNOanJxcFwvWlBlNys0SzhLS0NRYTRSIiwibWFjIjoiMzkzNWRmYmRjYWY3ZTJmOWU3YmZkMTMzZTM1MTk0ZGYyZWMxMzFjY2U1YzM2NjE3ZjM1NjM2ODg3YWZmZTI5NCJ9	
+TT_COOKIE=tradetron_session=eyJpdiI6InMwWldhWXBCZDhZXC9RMXlkdW5EN1ZRPT0iLCJ2YWx1ZSI6Ik1QdGxCdXFLV2FIRGQ5dmlwSHExZ05wS05TVDJxcGtkZjVCVTVBV0F3QVNOanJxcFwvWlBlNys0SzhLS0NRYTRSIiwibWFjIjoiMzkzNWRmYmRjYWY3ZTJmOWU3YmZkMTMzZTM1MTk0ZGYyZWMxMzFjY2U1YzM2NjE3ZjM1NjM2ODg3YWZmZTI5NCJ9	
 
 TRADE_TYPE=`LIVE AUTO` 
 TELEGRAM_CHAT_ID= //Once you have added the bot to your group, send a sample message from the group, use the getUpdates call to extract the chat id from the json response. One time job
-TELEGRAM_BOT_TOKEN= 1988197502:AAGIvDnbtr97hXLITzLH5w2wUi2bdGpfIq0
+TELEGRAM_BOT_TOKEN=1988197502:AAGIvDnbtr97hXLITzLH5w2wUi2bdGpfIq0
 TELEGRAM_CHAT_ID_DEBUG= //As a developer, you may want to get internal news of the app or failure, like session expiry or Google sheet misbehaving
-PK_EMAIL= nate-0601@tradetron-drake.iam.gserviceaccount.com
-PK_PK= 18_wPShVlqI-haSqyjse8OfF4LWdsln7c4qPfxZAu4OU
-GOOGLE_PROJECT_ID= tradetron-drake //Google project id, 870360921722
-TRADE_START_HOUR= 9
-TRADE_START_MIN= 14
-TRADE_END_HOUR= 15
-TRADE_END_MIN= 16
-APIUSER= sumit0601 //Super secret username to be used when making api calls
-APIPWD= sumit0601 //Super secret password to be used when making api calls
+PK_EMAIL=nate-0601@tradetron-drake.iam.gserviceaccount.com
+PK_PK=18_wPShVlqI-haSqyjse8OfF4LWdsln7c4qPfxZAu4OU
+GOOGLE_PROJECT_ID=tradetron-drake //Google project id, 870360921722
+TRADE_START_HOUR=9
+TRADE_START_MIN=14
+TRADE_END_HOUR=15
+TRADE_END_MIN=16
+APIUSER=sumit0601 //Super secret username to be used when making api calls
+APIPWD=sumit0601 //Super secret password to be used when making api calls
